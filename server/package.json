@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon eventSource.js"
+    "dev": "nodemon webSocket.js"
   },
   "keywords": [],
   "author": "Maxim Yakovlev",

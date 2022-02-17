@@ -1,8 +1,8 @@
-# Real-Time Client-Server Communication
+## Real-Time Client-Server Communication
 
-## Long Polling
+### - Long Polling
 
-## Event Source
+### - Event Source
 
-## WebSocket
+### - WebSocket
 
